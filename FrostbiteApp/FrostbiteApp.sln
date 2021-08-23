@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrostbiteApp.WPF", "FrostbiteApp.WPF\FrostbiteApp.WPF.csproj", "{CD79E602-CBE2-4467-BF3E-F6A32965EB48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrostbiteApp.ShapeMoverLib", "FrostbiteApp.ShapeMoverLib\FrostbiteApp.ShapeMoverLib.csproj", "{55062C9D-236D-48A6-A6C5-657DFC1BC94A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD79E602-CBE2-4467-BF3E-F6A32965EB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD79E602-CBE2-4467-BF3E-F6A32965EB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD79E602-CBE2-4467-BF3E-F6A32965EB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD79E602-CBE2-4467-BF3E-F6A32965EB48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55062C9D-236D-48A6-A6C5-657DFC1BC94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55062C9D-236D-48A6-A6C5-657DFC1BC94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55062C9D-236D-48A6-A6C5-657DFC1BC94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55062C9D-236D-48A6-A6C5-657DFC1BC94A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F57CBBC-CBC6-4233-B591-A0051CFAD84A}
+	EndGlobalSection
+EndGlobal
